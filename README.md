@@ -57,7 +57,7 @@ This project showcases a comprehensive understanding and practical application o
 ## Network Topology
 Below is the comprehensive network diagram for this project, illustrating the intricate design and security zones:
 
-![Network Topology Diagram]([network_topology.png](https://github.com/HoosseinRahimi/CCNA_Complex_Network_Design/blob/main/CCNA_Complex_Network_Design/network_topology.png))
+![Network Topology Diagram](CCNA_Complex_Network_Design/network_topology.png)
 
 ## Project Goals & Challenges
 * **Goal 1:** Achieve full end-to-end connectivity across all VLANs and OSPF areas, with precise subnetting.
